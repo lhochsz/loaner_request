@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>18b0db2b2d7313007f44e8f08cb7326f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_snc_loaner_reque_loaner_request">
+    <x_snc_loaner_reque_loaner_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <asset_barcode/>
+        <assigned_to display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="*CHUCK-IBM">71c031213784200044e0bfc8bcbe5de1</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot>ny</depot>
+        <description/>
+        <due_date/>
+        <end_date>2018-08-31 18:33:07</end_date>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>cmdb_ci_projector</item_type>
+        <knowledge>false</knowledge>
+        <location/>
+        <location_to_be_used/>
+        <made_sla>true</made_sla>
+        <number>LNR002006</number>
+        <opened_at>2018-08-14 20:30:59</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</requested_for>
+        <short_description/>
+        <sla_due/>
+        <start_date>2018-08-12 18:33:03</start_date>
+        <state>1</state>
+        <sys_class_name>x_snc_loaner_reque_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-14 20:31:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18b0db2b2d7313007f44e8f08cb7326f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-15 18:33:16</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_loaner_reque_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-15 18:41:42</sys_created_on>
+        <sys_id>214180842d4423007f44e8f08cb73266</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR002006</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">928baa232d7313007f44e8f08cb732fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">928baa232d7313007f44e8f08cb732fe</sys_scope>
+        <sys_update_name>sys_metadata_link_214180842d4423007f44e8f08cb73266</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-15 18:41:42</sys_updated_on>
+        <tablename>x_snc_loaner_reque_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
